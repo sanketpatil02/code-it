@@ -1,0 +1,21 @@
+.card-container {
+	border: 1px solid #000;
+	margin: 2px;
+	width: 100%;
+	background: var(--mainGrey);
+	padding: 10px;
+}
+
+.card-title {
+	font-weight: bold;
+	font-size: 1.2rem;
+}
+.card-body-container {
+	display: flex;
+	justify-content: space-between;
+	flex-direction: row;
+}
+
+.btn-solve {
+	background: green;
+}

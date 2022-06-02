@@ -1,0 +1,22 @@
+.question-cotainer {
+	margin: 5px 10%;
+	background: var(--mainGrey);
+	border: 1px solid;
+	padding: 1rem;
+	margin-bottom: 5rem;
+}
+hr {
+	color: #000000;
+	margin: 1rem 0rem;
+}
+.question-title {
+	font-size: 2rem;
+}
+
+.question-description {
+	width: 80%;
+}
+
+.btn-submit {
+	margin: 1rem;
+}

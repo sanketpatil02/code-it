@@ -1,0 +1,8 @@
+.sec-container {
+	background-color: #000;
+}
+.sec-widget {
+	min-height: 800px;
+	width: 100%;
+	height: 100%;
+}
