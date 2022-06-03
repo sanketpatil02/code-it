@@ -33,7 +33,7 @@ const SingleQuestion = (props) => {
 		setCode(newValue);
 	}
 
-	const url = "https://api.jdoodle.com/v1/execute";
+	// const url = "https://api.jdoodle.com/v1/execute";
 
 	function updateUserDB() {
 		var temp_user = {
