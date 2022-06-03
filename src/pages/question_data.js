@@ -16,7 +16,7 @@ export const question_data = [
     sample_output: "7 6 5 4 3 2 1<br/>11 2 3",
     tag: "Array",
     question_link:
-      "https://1236d10a.widgets.sphere-engine.com/lp?hash=7WUktUkpbA",
+      "https://3c3dbaf2.widgets.sphere-engine.com/lp?hash=vo5hRxgayE",
   },
   {
     _id: 2,
@@ -35,7 +35,7 @@ export const question_data = [
     sample_output: "Chef <br/> Divyam  <br/>Divyam",
     tag: "String",
     question_link:
-      "https://1236d10a.widgets.sphere-engine.com/lp?hash=GQJau0B8Zb",
+      "https://3c3dbaf2.widgets.sphere-engine.com/lp?hash=uwKL8rCgU8",
   },
   {
     _id: 3,
@@ -54,7 +54,7 @@ export const question_data = [
     sample_output: "7<br/>6<br/>9",
     tag: "Math",
     question_link:
-      "https://1236d10a.widgets.sphere-engine.com/lp?hash=ODduMWU8l2",
+      "https://3c3dbaf2.widgets.sphere-engine.com/lp?hash=DvbaRWqM4b",
   },
   {
     _id: 4,
@@ -73,7 +73,7 @@ export const question_data = [
     sample_output: "DEF GHI<br/>WHUD HVW URWXQGD",
     tag: "String",
     question_link:
-      "https://1236d10a.widgets.sphere-engine.com/lp?hash=RY17XFq6Rr",
+      "https://3c3dbaf2.widgets.sphere-engine.com/lp?hash=r9fN5c3Mdf",
   },
   {
     _id: 5,
@@ -92,7 +92,7 @@ export const question_data = [
     sample_output: "YES<br/>YES<br/>NO<br/>YES<br/>YES",
     tag: "Math",
     question_link:
-      "https://1236d10a.widgets.sphere-engine.com/lp?hash=RP4s7lrFL6",
+      "https://3c3dbaf2.widgets.sphere-engine.com/lp?hash=BtwCFrBMrk",
   },
   {
     _id: 6,
@@ -111,7 +111,7 @@ export const question_data = [
     sample_output: "0<br/>0<br/>1",
     tag: "Algorithms",
     question_link:
-      "https://1236d10a.widgets.sphere-engine.com/lp?hash=56pKSF3cEq",
+      "https://3c3dbaf2.widgets.sphere-engine.com/lp?hash=E9ZXk1GfZh",
   },
   {
     _id: 7,
@@ -130,7 +130,7 @@ export const question_data = [
     sample_output: "1 4 3 8<br/>2 3 4 7<br/>5 3 9 7",
     tag: "Array",
     question_link:
-      "https://1236d10a.widgets.sphere-engine.com/lp?hash=nqgyLBAFzT",
+      "https://3c3dbaf2.widgets.sphere-engine.com/lp?hash=e8Hu1WjVka",
   },
   {
     _id: 8,
@@ -149,6 +149,6 @@ export const question_data = [
     sample_output: "DEF GHI<br/>WHUD HVW URWXQGD",
     tag: "String",
     question_link:
-      "https://1236d10a.widgets.sphere-engine.com/lp?hash=RY17XFq6Rr",
+      "https://3c3dbaf2.widgets.sphere-engine.com/lp?hash=r9fN5c3Mdf",
   },
 ];
