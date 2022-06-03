@@ -27,7 +27,7 @@ export default class Header extends Component {
         <div className="nav-center">
           <div className="nav-header">
             <div className="nav-links">
-              <Link to="/">🚀codeIT🚀"</Link>
+              <Link to="/">🚀Code-It🚀"</Link>
             </div>
 
             <button
