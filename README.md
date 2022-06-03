@@ -1,6 +1,6 @@
-# codeKIT- online coding platform
+# codeIt - online coding platform
 
-## Live link : https://codekit.netlify.app/
+## Live link : [https://codekit.netlify.app/](https://code-it-platform.netlify.app/)
 
 ## About
 
@@ -18,10 +18,3 @@
 <img align="left" alt="medium" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
  -
 
----
-
-## Connect with me:
-
-[<img align="left" alt="medium" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nikhiljugale007)
-
-[<img align="left" alt="medium" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/nikhiljugale007/)
