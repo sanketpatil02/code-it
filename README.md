@@ -1,6 +1,6 @@
 # codeIt - online coding platform
 
-## Live link : [https://codekit.netlify.app/](https://code-it-platform.netlify.app/)
+## Live link : [https://codekIt.netlify.app/](https://code-it-platform.netlify.app/)
 
 ## About
 
